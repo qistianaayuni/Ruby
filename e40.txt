@@ -1,0 +1,4 @@
+a. /^The\b/
+b. /\bcat$/
+c. /\b[a-zA-Z].\w\b/
+d. /^(A|The) .... (dog|cat)/

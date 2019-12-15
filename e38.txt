@@ -1,0 +1,8 @@
+a. /([kK]|s)/
+b. /[bc][aou]t/i
+c. /[0-9a-jA-J]/
+d. /[^\d\s\WxX]/
+e. /[^a-zA-Z]/
+f. abC
+g. 
+h. /\[\^\w-\w\]/
